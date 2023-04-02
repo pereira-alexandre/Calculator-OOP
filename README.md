@@ -3,10 +3,12 @@
 Language: Python 3.11.0\
 Lib: tkinter
 <p align="center">
-  <img src="img/front.png" >
+  <img src="img/front.PNG" alt="App-logo">
 </p>
 
+<p align="center">CALCULATOR</p>
 
+---
 
 
 
