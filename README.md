@@ -3,7 +3,7 @@
 Language: Python 3.11.0\
 Lib: tkinter
 <p align="center">
-  <img src="img/front.png" alt="App logo">
+  <img src="img/front.png" >
 </p>
 
 
